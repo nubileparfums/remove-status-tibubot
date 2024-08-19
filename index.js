@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Bot Oficial","Tibu Community","Viendo Directos"];
 
 
 let currentIndex = 0;
